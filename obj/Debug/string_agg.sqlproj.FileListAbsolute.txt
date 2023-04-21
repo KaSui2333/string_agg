@@ -1,0 +1,10 @@
+D:\code\C#\string_agg\bin\Debug\string_agg.dacpac
+D:\code\C#\string_agg\bin\Debug\string_agg.dll
+D:\code\C#\string_agg\bin\Debug\string_agg.pdb
+D:\code\C#\string_agg\obj\Debug\string_agg.sqlproj.AssemblyReference.cache
+D:\code\C#\string_agg\obj\Debug\Model.xml
+D:\code\C#\string_agg\obj\Debug\refactor.xml
+D:\code\C#\string_agg\obj\Debug\postdeploy.sql
+D:\code\C#\string_agg\obj\Debug\predeploy.sql
+D:\code\C#\string_agg\obj\Debug\string_agg.dll
+D:\code\C#\string_agg\obj\Debug\string_agg.pdb
