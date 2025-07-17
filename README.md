@@ -38,7 +38,7 @@ RETURNS nvarchar(max)
 EXTERNAL NAME [StringAgg].[string_agg];
 ```
 
-3.使用
+4.使用
 
 ```sql
 select dbo.string_agg(f) from t group by xx
